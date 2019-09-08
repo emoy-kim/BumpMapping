@@ -1,6 +1,6 @@
 # BumpMapping
   
-  ![bumpmapping2](https://user-images.githubusercontent.com/17864157/64487185-1744cb80-d272-11e9-8000-0fd5c9f1b4a2.gif)
+  ->![bumpmapping2](https://user-images.githubusercontent.com/17864157/64487185-1744cb80-d272-11e9-8000-0fd5c9f1b4a2.gif)<-
   
   
   ![bumpmapping](https://user-images.githubusercontent.com/17864157/64487175-fc725700-d271-11e9-8753-e04786247208.png)
