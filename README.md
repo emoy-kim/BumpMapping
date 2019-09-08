@@ -1,6 +1,7 @@
 # BumpMapping
   
-  
+  ![bumpmapping](https://user-images.githubusercontent.com/17864157/64487175-fc725700-d271-11e9-8753-e04786247208.png)
+
   
 ## Test Environment
   * Windows 10
