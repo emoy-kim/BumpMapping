@@ -1,9 +1,9 @@
 # BumpMapping
   
   <p align="center">
-  <img width="600" height="420" src="https://user-images.githubusercontent.com/17864157/64487185-1744cb80-d272-11e9-8000-0fd5c9f1b4a2.gif">
+  <img width="600" height="420" src="https://user-images.githubusercontent.com/17864157/64487376-af43b480-d274-11e9-80b4-5b7eaeba5d9c.gif">
   </p>
-  
+
   ![bumpmapping](https://user-images.githubusercontent.com/17864157/64487175-fc725700-d271-11e9-8753-e04786247208.png)
 
   
