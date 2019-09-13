@@ -26,6 +26,5 @@
   * **i key**: main camera and projector reset
   * **b key**: bump mapping turn on/off
   * **l key**: light turn on/off
-  * **r key**: replay projector when video was projected
   * **enter key**: project an image/video
   * **q/ESC key**: exit
