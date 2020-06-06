@@ -6,4 +6,7 @@ target_link_libraries(
         dl
         X11
         freeimage
+        opencv_core
+        opencv_imgproc
+        opencv_imgcodecs
 )
