@@ -1,5 +1,5 @@
 target_link_libraries(
-    OpenGL-Example
+     BumpMapping
         glad
         glfw3
         pthread
